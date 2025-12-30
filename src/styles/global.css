@@ -1,0 +1,13 @@
+:root {
+  --brand-navy: #0B2C4D;
+  --brand-gold: #C9A24D;
+  --brand-beige: #fdfbf6;
+  --brand-muted: #D6CFC4;
+}
+
+.dark {
+  --brand-navy: #0F355F;
+  --brand-gold: #E0B867;
+  --brand-beige: #1A1A1A;
+  --brand-muted: #2A2A2A;
+}
